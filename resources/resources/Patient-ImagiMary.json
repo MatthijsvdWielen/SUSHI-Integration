@@ -1,0 +1,22 @@
+{
+  "resourceType": "Patient",
+  "id": "ImagiMary",
+  "meta": {
+    "profile": [
+      "KRYDemo.org/StructureDefinition/MyPatient"
+    ]
+  },
+  "name": [
+    {
+      "given": [
+        "Imogen"
+      ],
+      "family": "Mary"
+    }
+  ],
+  "telecom": [
+    {
+      "value": "012345678"
+    }
+  ]
+}
