@@ -1,2 +1,0 @@
-# FSH resources
- Test
